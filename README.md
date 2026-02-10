@@ -18,3 +18,10 @@ Detailed instructions for deployment can be found in the `DOCS` folder (if avail
 This project is part of the **Benameur Soft** education initiative.
 ---
 Developed with ❤️ by **Benameur Mohamed**.
+
+
+--- 
+### 💰 Support the Project | ادعم المشروع
+If you find my work helpful, consider supporting the development and educational missions of **Benameur Soft**.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/benameursoft)
