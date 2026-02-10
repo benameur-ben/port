@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Benameur Port Management System ⚓
 
-# Run and deploy your AI Studio app
+A digital infrastructure for port logistics and activity tracking, designed for efficiency and modern harbor management.
 
-This contains everything you need to run your app locally.
+## ✨ Key Features
+- Real-time activity stream for logistics tracking
+- Secure data management for port operations
+- Futuristic minimalist dashboard interface
+- Interactive reporting and analytics
 
-View your app in AI Studio: https://ai.studio/apps/drive/1bFiTu79RNVtcBLmtoKV7YB-8Nth2aTSu
+## 🚀 Technologies
+`Python`, `Web Technologies`, `Automation`
 
-## Run Locally
+## 🛠️ Deployment
+Detailed instructions for deployment can be found in the `DOCS` folder (if available).
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📄 License
+This project is part of the **Benameur Soft** education initiative.
+---
+Developed with ❤️ by **Benameur Mohamed**.
